@@ -1,12 +1,14 @@
 print("Nama: Nazwa Tri Ananda")
 print("NIM: 2309116018")
 print("Kelas: Sistem Informasi A")
-print("=====================================")
 
+
+print("=====================================")
 print("WELCOME TO KPOP STORE!")
 print("Silahkan Login Sebagai: ")
 print("1. Admin Toko")
 print("2. Pelanggan")
+print("=====================================")
 
 print("=====================================")
 Login_Menu = input('pilih Login Sebagai (1/2): ') 
