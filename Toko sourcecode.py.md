@@ -7,6 +7,7 @@ print("WELCOME TO KPOP STORE!")
 print("Silahkan Login Sebagai: ")
 print("1. Admin Toko")
 print("2. Pelanggan")
+
 print("=====================================")
 Login_Menu = input('pilih Login Sebagai (1/2): ') 
 print("=====================================")
